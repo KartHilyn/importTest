@@ -4,7 +4,7 @@ import task.TaskManager;
 
 /**
  * 走行プログラム
- * @author 後藤 聡文
+ * @author 太田　翔葵
  *
  */
 public class Main {
